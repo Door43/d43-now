@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[now:home|Door43 (now)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-now|d43-now repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-now/archive/master.zip|d43-now.zip]]
+
+**Recent Changes**
+{{changes>ns = now}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/now|Ethnologue data]]
+
